@@ -1,0 +1,12 @@
+.venv
+.env
+env/
+venv/
+ENV/
+.env
+pycache/
+env.bak/
+*.pyc
+.spyderproject
+.spyproject
+src.egg-info
